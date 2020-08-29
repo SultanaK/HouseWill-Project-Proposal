@@ -1,16 +1,18 @@
 # HouseWill-Project-Proposal
-A full stack application proposal which will be built in Postgres, Express, React and Node.
+A full stack application which will be built in Postgres, Express, React and Node.
 
 # What does House Will do for you?
-    Don't know what to make for dinner? With the Recipe Master web app you can simply find any recipe of your choice and try it.
+    It is a community web application for gently used house hold items. With the House Will web app you can simply find any used house hold items and buy it at very minimum price. To add or buy item you need to register but just to view a item you can only visit the web page.
 # Home page
-    When the app first load, it will have top 5 recipe ( Pasta, Barbeque chicken, Russian salad .... ) loaded with its image. Each image contain the link of the recipe.
+    When the app first load, it will have top 10 items loaded with its image.
+# Header
+    It has a logo, sign-in, register and sigin-out.
+# Nav
+    It will contain slide show image of 3 product with description which also link to the item page. 
 # How to use House Will:
-    Enter the recipe you would like to make and the cuisine you would like (American, Mexican, Chinese, etc.). Then, click the "Find    Recipes" button.
-    After clicking "Find Recipes" button, 10 recipe images will display.
-    Next, click on an image to view step-by-step preparation instructions at the bottom of the page.
-    It will also suggest related youtube video of the recipe.
-    User can also like and dislike the recipe.
+    Enter the item name you would like to search or simply click the side bar to find item by its catagory. Each item page contain the details of the product with description,         price and contact information.You can also comment on individual item on the each page.
+# Footer
+    It has all the contact information and social media link. 
     
 # Technologies Used in the Creation of this Project
 
