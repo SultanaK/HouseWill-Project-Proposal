@@ -20,9 +20,9 @@
     
 # Technologies Used in the Creation of this Project
 
-###HTML,
+### HTML,
 
-###CSS,
+### CSS,
 JavaScript,
 React,
 Postgres,
