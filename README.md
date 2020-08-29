@@ -23,17 +23,16 @@
 ### HTML,
 
 ### CSS,
-JavaScript,
-React,
-Postgres,
-Node,
-Espress,
-JWT,
-Bcrypt,
-Slack,
-NPm
-GitHub,
-Visual Studio, 
-Git Bash and
-Google Fonts.
+### JavaScript,
+### React,
+### Postgres,
+### Node,
+### Express,
+### JWT,
+### Bcrypt,
+### Slack,
+### NPM,
+### Git bash and GitHub,
+### Visual Studio and
+### Google Fonts.
 
