@@ -1,5 +1,8 @@
 # HouseWill-Project-Proposal
-A full stack application which will be built in Postgres, Express, React and Node.
+    A full stack application which will be built in Postgres, Express, React and Node.
+# Purpose of this application
+    If you want to donate your gentle used house product, you can donate the item. 
+    \nIf you want to buy item for the hosue but you don't have the ablity the buy the product, you can simply buy it from the app with a bear minimum price. 
 
 # What does House Will do for you?
     It is a community web application for gently used house hold items. With the House Will web app you can simply find any used house hold items and buy it at very minimum price. To add or buy item you need to register but just to view a item you can only visit the web page.
