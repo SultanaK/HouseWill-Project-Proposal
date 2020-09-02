@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Housewill Add new item</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/normalize/6.0.0/normalize.css">
+    <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+
+<body>
+    <nav role="navigation">Nav</nav>
+    <main role="main">
+        <header>
+            <h1>Add new Item</h1>
+        </header>
+        <section>
+            <form id="add-item">
+                <div class="form-section">
+                    <label for="dream-title">Item title</label>
+                    <input type="text" name="item-title" placeholder="add the item" required>
+                </div>
+                <div class="form-section">
+                    <label for="description">Description</label>
+                    <input type="text" name="item-title" placeholder="add the item" required>
+                    <!-- <textarea name="dream-summary" rows="15"   required></textarea> -->
+                </div>
+                <div class="form-section">
+                    <label for="price">Item title</label>
+                    <input type="text" name="price" placeholder="add the price" required>
+                </div>
+                <div class="form-section">
+                    <label for="image-link">Image</label>
+                    <input type="text" name="item-title" placeholder="add the image link" required>
+                </div>
+                <div class="form-contact">
+                    <label for="contact">Contact details</label> 
+                        <label for="fname">First Name</label>
+                        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+                        <label for="lname">Last Name</label>
+                        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+                        <label for="email">Email</label>
+                        <input type="text" id="email" name="email" placeholder="Add  Email.."> 
+                        <label for="subject">Additional Comment</label>
+                        <textarea id="subject" name="subject" placeholder="Write something.."
+                            style="height:170px"></textarea>
+                </div>
+
+                <button type="submit">Submit</button>
+                <button type="reset">Reset</button>
+            </form>
+        </section>
+    </main>
+</body>
+
+</html>
